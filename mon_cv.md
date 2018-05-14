@@ -12,7 +12,7 @@ http://www.linkedin.com/in/mmasquelin
    *Administrateur Systèmes et Réseaux [IEMN](https://www.iemn.fr/)*
     (Villeneuve d'Ascq, Nord).
     
-    Administratation système et réseaux au Laboratoire Central de L'Institut (LCI). 
+    Administration système et réseaux au Laboratoire Central de L'Institut (LCI). 
     Gestion des aspects PPST et SSI.
     
 ## De oct. 2007 à oct. 2011
